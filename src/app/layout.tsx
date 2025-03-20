@@ -26,8 +26,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <head>
-        {/* Analytics Scripts */}
-        <Script
+        {/* <Script
           id="gtm-head"
           strategy="beforeInteractive"
           dangerouslySetInnerHTML={{
@@ -51,7 +50,7 @@ export default function RootLayout({
             <script async src="https://www.googletagmanager.com/gtag/js?id=G-MKEP4C6KGG"></script>
             `
           }}
-        />
+        /> */}
         {/* GTM Scripts */}
         <Script
           id="gtm-head"
